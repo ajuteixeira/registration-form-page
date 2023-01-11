@@ -2,7 +2,9 @@
 
 This project features a simple form registration page.
 
-The project was built with <b>HTML and CSS</b>
+The project was built with <b>HTML and CSS.</b>
+
+Inspiration: <a href="https://github.com/rafaballerini" target="_blank">Rafa Ballerini</a> :)
 
 <img src="https://www.imagemhost.com.br/images/2023/01/11/form.png" style="width:100%;">
 
